@@ -1,12 +1,7 @@
 # Share Me - Image Sharing Application 📷💖
 With all advanced Social Media features, such as Google Authentication, create, edit, delete and save posts, like and comment on other people's posts, search and filter images and much more.
-<br>
+<br><br>
 ShareMe is the best Image Sharing Social Media App that you can currently find on the entire internet.
-
-## Table of content
-### [Backend](#backend)
-### [Frontend](#frontend)
-### [Screen Shots](#screen-shots)
 
 # Backend
 [Sanity](https://www.sanity.io/) is the platform for structured content. It allows you to manage text, images, and all other data using APIs.
